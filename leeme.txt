@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lineas añadidas por Prog1
+=======
+Lineas añadidas por Prog2
+>>>>>>> fe05d9cbbb74094227c5e417b5d7ac485328a61b
